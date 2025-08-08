@@ -1,4 +1,4 @@
-# 🤖 Machine Learning & Deep Learning Project
+# 🤖 Machine Learning & Deep Learning Projects
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?logo=tensorflow)
