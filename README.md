@@ -23,4 +23,3 @@ The goal is to create state-of-the-art models, benchmark them, and share reusabl
 
 ---
 
-## 📁 Project Structure
