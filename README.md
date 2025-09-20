@@ -54,4 +54,4 @@ The goal is to create state-of-the-art models, experiment with novel architectur
 
 11- K-Means & KNN – Clustering & classification implemented from scratch.
 
-
+12- Multi-Nominal Naive Bayes (NLP) - Email Detection 
