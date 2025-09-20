@@ -30,28 +30,18 @@ The goal is to create state-of-the-art models, experiment with novel architectur
 
 📊 Performance Tracking – Logging and evaluation for model training.
 
-🗂️ Projects:
+## 🗂️ Projects
 
-1- Emotion Recognition (CV) – Real-time predictions with ResNet and OpenCV.
+1- **Emotion Recognition (CV)** – Real-time emotion detection using **ResNet-50 + OpenCV**.  
+2- **Text Classification & Sentiment Analysis (NLP)** – Custom Transformer and **BERT-based models** for text understanding.  
+3- **Chatbot (LLMs)** – Conversational AI built by fine-tuning **GPT-2** on dialogue datasets.  
+4- **DCGAN (Generative AI)** – Image synthesis with **PyTorch**, generating realistic samples (cats 🐱).  
+5- **Hand Gesture Recognition (CV)** – Real-time gesture classification using **CNN + MediaPipe**.  
+6- **Random Forest Classifier** – Tabular dataset classification with **feature importance plots**.  
+7- **Face Recognition (CNNs)** – Real-time face identification using **deep learning models**.  
+8- **Animal Classification (CNNs)** – Multi-class image recognition (dogs, cats, etc.).  
+9- **Traffic Sign Recognition (CNNs)** – Road sign detection & classification for autonomous driving.  
+10- **Linear & Logistic Regression** – Fundamental ML models implemented **from scratch**.  
+11- **K-Means & KNN** – Core clustering & classification algorithms, implemented **from scratch**.  
+12- **Spam Email Detection (NLP)** – Email filtering using **Multinomial Naive Bayes**.  
 
-2- Text Classification & Sentiment Analysis – Custom Transformer & BERT-based models.
-
-3- Chatbot – GPT-2 fine-tuned on conversation datasets.
-
-4- DCGAN – Generative model for image synthesis with PyTorch.
-
-5- Hand Gesture Recognition – Real-time predictions using CNN + MediaPipe.
-
-6- Random Forest Classifier – Tabular dataset classification with feature importance plots.
-
-7- Face Recognition (CNNs) – Real-time face identification.
-
-8- Animal Classification (CNNs) – Multi-class image classification.
-
-9- Traffic Sign Recognition (CNNs) – Real-time traffic sign detection.
-
-10- Linear & Logistic Regression – Fundamental ML models implemented from scratch.
-
-11- K-Means & KNN – Clustering & classification implemented from scratch.
-
-12- Multi-Nominal Naive Bayes (NLP) - Email Detection 
