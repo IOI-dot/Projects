@@ -11,7 +11,7 @@
 📌 Overview
 
 This repository contains my PyTorch-based Machine Learning, Deep Learning, and AI experiments, models, and research notes.
-The goal is to create state-of-the-art models, experiment with novel architectures, and share reusable code for the community.
+The goal is to create state-of-the-art models, experiment with novel architectures.
 
 ---
 ✨ Features
@@ -30,13 +30,17 @@ The goal is to create state-of-the-art models, experiment with novel architectur
 
 📊 Performance Tracking – Logging and evaluation for model training.
 
-🗂️ Projects
+🗂️ Projects:
 
-Emotion Recognition (CV) – Real-time predictions with ResNet and OpenCV.
+1-Emotion Recognition (CV) – Real-time predictions with ResNet and OpenCV.
 
-Text Classification & Sentiment Analysis – Custom Transformer & BERT-based models.
+2-Text Classification & Sentiment Analysis – Custom Transformer & BERT-based models.
 
-Chatbot – GPT-2 fine-tuned on conversation datasets.
+3-Chatbot – GPT-2 fine-tuned on conversation datasets.
 
-DCGAN – Generative model for image synthesis with PyTorch.
+4-DCGAN – Generative model for image synthesis with PyTorch.
+
+5-Hand Gesture Recognition – Real-time predictions using CNN + MediaPipe.
+
+6-Random Forest Classifier – Tabular dataset classification with feature importance plots.
 
