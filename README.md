@@ -46,5 +46,6 @@ The goal is to create state-of-the-art models, experiment with novel architectur
 12- **Spam Email Detection (NLP)** – Email filtering using **Multinomial Naive Bayes**.   
 13- **Hand Gesture Recognition (CNNs + MediaPipe)** – Real-time gesture classification.                                                                                                                        
 14- **Encoder Transformer** - Text Emotion classfication.
+
 15-**Decoder Transformer**- Chatbot-like model
 
